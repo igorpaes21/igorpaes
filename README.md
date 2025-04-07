@@ -26,18 +26,6 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/igorpaes21/?trk=opento_sprofile_details" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <h2 align="left">Stats</h2>
 
 ###
@@ -50,10 +38,12 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igorpaes21/igorpaes21/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igorpaes21/igorpaes21/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/igorpaes21/igorpaes21/output/pacman-contribution-graph.svg">
-</picture>
+<h2 align="left">Social Media</h2>
 
 ###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/igorpaes21/?trk=opento_sprofile_details" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
